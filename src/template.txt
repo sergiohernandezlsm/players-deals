@@ -1,18 +1,1 @@
 
-<div className="scoreboard">
-  <header>
-    <h1></h1>
-    <span className="stats">Players:</span> 
-  </header>
-  <div className="player">
-    <span className="player-name">
-      <button className="remove-player">✖</button>
-      <button className="remove-player">edit</button>
-    </span>
-    <form>
-      <input type="text" placeholder="Add Player"/>
-      <input type="text" placeholder="brand account id"/>
-      <button type="submit">Submit</button>
-    </form>
-  </div>
-</div>
